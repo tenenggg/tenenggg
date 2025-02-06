@@ -35,4 +35,6 @@ Hello, folks!<br>I’m currently pursuing a bachelor's degree in Netcentric Comp
 ---
 [![](https://visitcount.itsvg.in/api?id=tenenggg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![image alt](https://github.com/tenenggg/tenenggg/blob/499834d9344a5b4f5ea31f547b2816d45da11c25/bot.jpg)
+
+
