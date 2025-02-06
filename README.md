@@ -1,4 +1,4 @@
-<img src="https://github.com/tenenggg/tenenggg/blob/5ee27defabbf8f95b47ea6bd194cb5dcf093f785/top.jpg" width="500"/>
+
 <h1>Hi 👋, I'm Tenenggg</h1>
 <p>An undergraduate Netcentric Computing student</p>
 
@@ -35,6 +35,6 @@ Hello, folks!<br>I’m currently pursuing a bachelor's degree in Netcentric Comp
 ---
 [![](https://visitcount.itsvg.in/api?id=tenenggg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/tenenggg/tenenggg/blob/499834d9344a5b4f5ea31f547b2816d45da11c25/bot.jpg" width="500"/>
+
 
 
