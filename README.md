@@ -5,13 +5,12 @@
 # 💫 About Me:
 Hello, folks!<br>I’m currently pursuing a bachelor's degree in Netcentric Computing at UiTM Jasin. I'm still learning my way through the IT world, but I've already worked on a few projects and have more in progress. Feel free to explore my profile and check out my work!
 
-<section style="background: linear-gradient(135deg, #ff7f50, #ff6347); padding: 40px; border-radius: 10px; text-align: center; color: white;">
-  <blockquote style="font-size: 1.5em; font-style: italic; margin: 0;">
-  "Fellow coders, we don’t fail, we just hit the next breakpoint in our progress" 
-  </blockquote>
-</section>
+<blockquote style="font-size: 2em; font-weight: bold; font-style: italic; color: #fff; text-align: center; margin: 20px 0;">
+  "Fellow coders, we don’t fail, we just hit the next breakpoint in our progress"
+</blockquote>
 
-# Social Media:
+
+# 💬 Social Media:
 <a href="https://www.linkedin.com/in/imamyunos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
 </a>
