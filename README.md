@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/tenenggg/tenenggg/blob/5ee27defabbf8f95b47ea6bd194cb5dcf093f785/top.jpg)
 <h1>Hi 👋, I'm Tenenggg</h1>
 <p>An undergraduate Netcentric Computing student</p>
 
