@@ -1,9 +1,9 @@
 
 <h1>Hi 👋, I'm Tenenggg</h1>
-<p>An undergraduate Netcentric Computing student</p>
+<p>An undergraduate bachelor's degree student</p>
 
 # 💫 About Me:
-Hello, folks!<br>I’m currently pursuing a bachelor's degree in Netcentric Computing at UiTM Jasin. I'm still learning my way through the IT world, but I've already worked on a few projects and have more in progress. Feel free to explore my profile and check out my work!
+Hello, folks!<br>I’m currently pursuing a bachelor's degree in Netcentric Computing at UiTM. I'm still learning my way through the IT world, but I've already worked on a few projects and have more in progress. Feel free to explore my profile and check out my work!
 
 <blockquote style="font-size: 2em; font-weight: bold; font-style: italic; color: #fff; text-align: center; margin: 20px 0;">
   "Fellow coders, we don’t fail, we just hit the next breakpoint in our progress"
